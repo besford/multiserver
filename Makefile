@@ -2,7 +2,7 @@
 ## Variables                                                                  ##
 ##----------------------------------------------------------------------------##
 
-PROGRAM		= server
+PROGRAM		= multiserver
 
 EXTENSION	= c
 OBJECT		= Object/
