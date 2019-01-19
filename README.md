@@ -1,6 +1,6 @@
 # Multiserver
 Multiserver is a simple multithread web server written in C for Ubuntu 14.04. This project was written
-for the purposes of learning how http web servers work while experimenting with threadpooling, chroot jails, and
+for the purposes of learning how http web servers work while experimenting with thread pooling, chroot jails, and
 other functionality.
 ## Getting started
 ### Prerequisites
